@@ -59,7 +59,7 @@
                 <a href="#">About</a>
             </li>
         </ul>
-        <p class="copyright">copy by IVYmoda.com 2024</p>
+        <p class="copyright">copy by IVYmoda.com 2025</p>
     </footer>
 </body>
 

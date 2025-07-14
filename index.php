@@ -8,7 +8,7 @@ if ($role_id == 3) {
     header("Location:../index.php");
 }
 ?>
-
+<!-- 
 <!DOCTYPE html>
 <html lang="en">
 
@@ -61,4 +61,4 @@ if ($role_id == 3) {
     </footer>
 </body>
 
-</html>
+</html> -->
